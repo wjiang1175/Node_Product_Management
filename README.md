@@ -12,11 +12,11 @@ Bamazon is a product management system, built to interact with Node and MySQL da
 You will need to install the package.json with the following command
 ```bash npm install```
 
-##Functions
+## Functions
 On your bash terminal preform the following command to access the Customer or Manager application. 
 ```node bamazonCustomer.js``` or ```node bamazonManager.js```
 
-##Bamazon Customer
+## Bamazon Customer
 When the customer runs ```node bamazonCustomer.js``` it will display all available products.
 
 ![](image/AllProducts.png)
@@ -25,7 +25,7 @@ Then the User will be allow to search the ID of the product the User would like 
 
 ![](image/customer.png)
 
-##Bamazon Manager
+## Bamazon Manager
 When the manager runs ```node bamazonManager.js``` it will display the following options.
 
 ![](image/manager.png)
