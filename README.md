@@ -7,6 +7,7 @@ Bamazon is a product management system, built to interact with Node and MySQL da
 * MySQL
 
 ## Video
+https://drive.google.com/file/d/1beLI3jgmQ5pRcKAPZoM6khNQKRwxTmZv/view?usp=sharing
 
 ## Installation
 You will need to install the package.json with the following command
